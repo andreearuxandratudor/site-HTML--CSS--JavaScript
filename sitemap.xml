@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://ineffable.esy.es/</loc>
+  <lastmod>2015-05-07T13:17:01+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://ineffable.esy.es/ineffable.html</loc>
+  <lastmod>2015-05-07T12:59:58+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://ineffable.esy.es/ceai.html</loc>
+  <lastmod>2015-05-07T13:06:49+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://ineffable.esy.es/cafea.html</loc>
+  <lastmod>2015-05-07T13:07:01+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://ineffable.esy.es/prajituri.html</loc>
+  <lastmod>2015-05-07T13:06:11+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://ineffable.esy.es/index.html</loc>
+  <lastmod>2015-05-07T13:17:01+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+</urlset>

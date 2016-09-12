@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imagini>
+	<imagine clasa="personaj">
+		<src>stea.png</src>
+		<width>50</width>
+		<height>48</height>
+	</imagine>
+	<imagine clasa="tinta">
+		<src>glob1.png</src>
+		<width>20</width>
+		<height>20</height>
+	</imagine>
+	<imagine clasa="tinta">
+		<src>glob2.png</src>
+		<width>20</width>
+		<height>20</height>
+	</imagine>
+	<imagine clasa="tinta">
+		<src>glob3.png</src>
+		<width>20</width>
+		<height>20</height>
+	</imagine>
+</imagini>

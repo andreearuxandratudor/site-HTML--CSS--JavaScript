@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+Allow: *
+
+Sitemap: http://ineffable.esy.es/sitemap.xml
